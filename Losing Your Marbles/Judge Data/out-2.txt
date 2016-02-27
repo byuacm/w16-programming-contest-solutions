@@ -1,0 +1,5 @@
+Data Set 1 NOT SOLVED 25
+Data Set 2 SOLVED
+Data Set 3 NOT SOLVED 2
+Data Set 4 NOT SOLVED 10
+Data Set 5 NOT SOLVED 2

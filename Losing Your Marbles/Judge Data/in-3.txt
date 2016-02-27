@@ -1,0 +1,24 @@
+5
+5 5
+mmomm
+mmxmm
+oxxxo
+mmxmm
+mmomm
+7 7
+mooooom
+mmooomm
+ooooooo
+ooooooo
+ooooooo
+mmooomm
+mooooom
+2 7
+mmomomo
+mmomomo
+1 7
+mmomomo
+3 7
+mmomomo
+mmomomo
+ooooooo
